@@ -1,0 +1,9 @@
+.title{
+    display: flex;
+    justify-content: center;
+    color: rgb(15, 72, 177);
+}
+
+.active{
+    color: brown;
+}
